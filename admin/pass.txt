@@ -1,0 +1,7 @@
+Nyc work ... But you still gotta do a lot more to go to the next level. :-P
+Password = SHALSDKD
+If you are gonna try the password above, you gotta rethink your strategy.
+Know anything about Cryptography ???
+As a side note : 
+	We admins always have a decryptor on the server handy.
+	You just gotta find where it is. :-P
